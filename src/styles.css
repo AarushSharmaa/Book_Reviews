@@ -5,7 +5,8 @@
 }
 
 body {
-  font-family: "Mono", sans-serif;
-  background-color: #efefef;
-  padding: 2rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: white;
+  padding: 3rem;
+  font-weight: lighter;
 }
